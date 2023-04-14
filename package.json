@@ -1,0 +1,27 @@
+{
+  "name": "cachestorage",
+  "version": "1.0.0",
+  "description": "",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhafraDev/node-cachestorage.git"
+  },
+  "keywords": [
+    "cachestorage"
+  ],
+  "author": "Khafra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhafraDev/node-cachestorage/issues"
+  },
+  "homepage": "https://github.com/KhafraDev/node-cachestorage#readme",
+  "dependencies": {
+    "better-sqlite3": "^8.3.0",
+    "undici": "^5.21.2"
+  }
+}
